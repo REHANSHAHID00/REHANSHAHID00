@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @REHANSHAHID00
 - 👀 I’m interested in Web dev / Web app dev / cyber security / Rbotics
-- 🌱 I’m currently learning HTML,JS,CSS,Python,SQL,React,Arduino
+- 🌱 I’m currently learning HTML, JS, CSS(Bootstra), Python(Flask), SQL, React, Arduino(ESP32), MongoDB. 
 
 <!---
 REHANSHAHID00/REHANSHAHID00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
